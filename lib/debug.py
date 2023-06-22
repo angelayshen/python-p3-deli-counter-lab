@@ -5,4 +5,7 @@ from deli_counter import (
 )
 
 if __name__ == '__main__':
+
+    katz_deli = ['Logan', 'Avi', 'Spencer']
+
     import ipdb; ipdb.set_trace()
